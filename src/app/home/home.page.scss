@@ -1,0 +1,26 @@
+p {
+    font-size: 2em;
+    color: #0ce6ee;
+    width: 100%;
+    text-align: center;
+}
+
+
+ion-input {
+    color: white;
+}
+
+ion-toolbar {
+    background: rgb(0, 0, 0);
+}
+
+.top {
+    margin: 15px;
+}
+
+.progressBar {
+    position: flex; 
+    align-content: center; 
+    justify-content: center; 
+    height: 55vh;
+}
